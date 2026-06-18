@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Arabic News Analyzer
 
 Arabic Sentiment Analysis Platform built with:
@@ -29,3 +30,7 @@ streamlit run app.py
 ## Author
 
 Idriss Aaidoun
+=======
+# arabic-news-analyzer
+Arabic News Sentiment Analysis Platform using Transformers and Streamlit
+>>>>>>> dab53f8885a640234ef8c4e1185b2849ec0999fb
