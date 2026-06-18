@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+venv/
+.env/
+
+models/
+database/history.db
+
+.streamlit/
+
+.idea/
+.vscode/
+
+.DS_Store
